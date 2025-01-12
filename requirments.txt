@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+pillow
+requests
+numpy
+selenium
+selenium_stealth
